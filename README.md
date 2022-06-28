@@ -63,3 +63,4 @@ python main.py parse error --enable_logging
 > note: log file with debug info will be generated at log.log
 
 ![error](error.gif)
+
